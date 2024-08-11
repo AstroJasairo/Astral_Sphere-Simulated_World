@@ -1,0 +1,4 @@
+repository "Astral Sphere - Simulated World@Astral_Sphere_Team@cloud"
+  path "/"
+    br "/main"
+    co "/main"
